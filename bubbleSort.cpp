@@ -52,5 +52,8 @@ void display(){
 };
 
 int main(){
-
+    inputArrayData();
+    bubbleSort();
+    display();
+    return 0;
 };
